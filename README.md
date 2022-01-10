@@ -1,1 +1,2 @@
-# [KWoC Project Report.pdf](https://github.com/Jigyasa-G/Kwoc-Project-Report-2021-22/files/7840561/KWoC.Project.Report.pdf)
+# KWoC Project Report 
+A summary of all the open source contributions under Kharagpur Winter of Code by IIT Kharagpur (Dec 2021 - Jan 2022) 
